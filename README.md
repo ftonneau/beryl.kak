@@ -75,6 +75,20 @@ Copy `beryl.kak` to your `$HOME/.config/kak/colors` directory.
 Once in Kakoune, use the `:colorscheme` command to pick Beryl as a color theme, or adjust your
 `kakrc` as suggested above.
 
+## See also
+
+[kakoune-colors](https://github.com/Delapouite/kakoune-colors)
+
+[kakoune-material-theme](https://github.com/valerdi/kakoune-material-theme)
+
+[kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
+
+[nord-kakoune](https://github.com/rubberydub/nord-kakoune)
+
+[primer.kak](https://github.com/evanrelf/primer.kak)
+
+[torchwood](https://github.com/codymlewis/torchwood)
+
 ## License
 
 MIT
