@@ -77,6 +77,20 @@ Once in Kakoune, use the `:colorscheme` command to pick Beryl as a color theme, 
 
 ## See also
 
+[ayu-kak](https://github.com/Icantjuddle/ayu-kak)
+
+[base16-gruvbox](https://github.com/andreyorst/base16-gruvbox.kak)
+
+[base16-kakoune](https://github.com/leira/base16-kakoune)
+
+[cosy-gruvbox.kak](https://github.com/Anfid/cosy-gruvbox.kak)
+
+[darkokai.kak](https://github.com/markolenik/darkokai.kak)
+
+[dracula](https://github.com/dracula/kakoune)
+
+[garbo](https://github.com/gustavo-hms/garbo)
+
 [kakoune-colors](https://github.com/Delapouite/kakoune-colors)
 
 [kakoune-material-theme](https://github.com/valerdi/kakoune-material-theme)
@@ -87,7 +101,11 @@ Once in Kakoune, use the `:colorscheme` command to pick Beryl as a color theme, 
 
 [primer.kak](https://github.com/evanrelf/primer.kak)
 
+[shirotelin-kakoune](https://github.com/esessoms/shirotelin-kakoune)
+
 [torchwood](https://github.com/codymlewis/torchwood)
+
+[ultrasonic](https://github.com/Jackojc/ultrasonic)
 
 ## License
 
