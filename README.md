@@ -95,6 +95,8 @@ Once in Kakoune, use the `:colorscheme` command to pick Beryl as a color theme, 
 
 [kakoune-material-theme](https://github.com/valerdi/kakoune-material-theme)
 
+[kakoune-mysticaltutor](https://github.com/caksoylar/kakoune-mysticaltutor)
+
 [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
 
 [nord-kakoune](https://github.com/rubberydub/nord-kakoune)
