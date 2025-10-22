@@ -1,3 +1,10 @@
+# This repository has been archived
+
+For an alternative, higher-contrast colorscheme, see
+[tangere-terminal](https://github.com/ftonneau/tangere-terminal).
+
+------------------------------------------------------------
+
 # beryl.kak
 
 A Kakoune color theme in the Oceanic lineage.
