@@ -1,5 +1,5 @@
 # A color theme for Kakoune.
-# Author: Francois Tonneau
+# Author: François Tonneau
 
 # This theme has been designed with a dark background in mind. Optional commands
 # allow you to highlight a column range or to change insert-mode cursor colors.
