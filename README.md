@@ -7,7 +7,7 @@ default background and foreground. Which background color will be used is theref
 terminal settings. In the screenshots below, for example, the Hex value of the background is
 #002632.
 
-Six optional commands allow you to customize the theme:
+Six commands allow you to customize the theme:
 
 - `beryl-add-band <column> <width>` displays a vertical color band at text column `<column>`. If
 present, the `<width>` parameter specifies how many columns should be highlighted. If omitted, the
@@ -62,11 +62,6 @@ in a hook dependent on the `WinCreate .*` event. For example, add the following 
 
 The `beryl-dampen-cursor` command guarantees that cursor colors when starting to edit the buffer are
 the dimmer ones. From there, `beryl-enable-changing-cursor` takes care of color alternation.
-
-## Warning
-
-Some versions of Kakoune may crash when a wide character (e.g., a Bopomofo glyph) overlaps with a
-highlighted text column. Use `beryl-add-band` with caution.
 
 ## Installation
 
